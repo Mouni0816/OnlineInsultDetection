@@ -12,7 +12,7 @@ Ce qui a été fait :
 * NN :
     * Modèle baseline avec dataset train complet : Validation ACC (0.8017), Test ACC (0.7875), Insultant Précision (0.63), Insultant Recall (0.56)
     * Modèle baseline avec dataset undersampling : Validation ACC (0.7873), Test ACC (0.7926), Insultant Précision (0.61), Insultant Recall (0.70)
-    * Modèle baseline avec un layer flatten undersampling
+    * Modèle baseline avec un layer flatten undersampling : Validation ACC (0.7907), Test ACC (0.7892), Insultant Précision (0.60), Insultant Recall (0.71)
 * CNN :
     * Modèle baseline avec dataset train complet : Validation ACC (0.8000), Test ACC (0.7909), Insultant Précision (0.63), Insultant Recall (0.59)
     * Modèle baseline avec dataset undersampling : Validation ACC (0.7899), Test ACC (0.7892), Insultant Précision (0.60), Insultant Recall (0.71)
